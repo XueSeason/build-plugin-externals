@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "build-plugin-externals",
+      {
+        "rax": "rax"
+      }
+    ]
+  ]
+}
